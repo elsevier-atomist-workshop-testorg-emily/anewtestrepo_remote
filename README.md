@@ -1,6 +1,6 @@
 # anewtestrepo_remote
 
-This is a project seed for creating Typescript projects that use express with handlebars and run on node.
+EDITED: This is a project seed for creating Typescript projects that use express with handlebars and run on node.
 
 ## Setup
 
